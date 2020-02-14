@@ -7,7 +7,7 @@
 			"theme": "purple",
 			"excerpt": "Lorem ipsum dolor sit amet",
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
-			"imagepath": "/images/banners/about-banner.png"
+			"imagePath": "/images/banners/about-banner.png"
 		},
 		{
 			"id": 2,
@@ -16,7 +16,7 @@
 			"theme": "blue",
 			"excerpt": "Lorem ipsum dolor sit amet",
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
-			"imagepath": "/images/banners/brain-cancer-research-banner.png"
+			"imagePath": "/images/banners/brain-cancer-research-banner.png"
 		},
 		{
 			"id": 3,
@@ -25,7 +25,7 @@
 			"theme": "green",
 			"excerpt": "Lorem ipsum dolor sit amet",
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
-			"imagepath": "/images/banners/get-support-banner.png"
+			"imagePath": "/images/banners/get-support-banner.png"
 		},
 		{
 			"id": 4,
@@ -34,7 +34,7 @@
 			"theme": "gold",
 			"excerpt": "Lorem ipsum dolor sit amet",
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
-			"imagepath": "/images/banners/get-involved-banner.png"
+			"imagePath": "/images/banners/get-involved-banner.png"
 		},
 		{
 			"id": 5,
@@ -43,7 +43,7 @@
 			"theme": "purple",
 			"excerpt": "Lorem ipsum dolor sit amet",
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
-			"imagepath": "/images/banners/about-banner.png"
+			"imagePath": "/images/banners/about-banner.png"
 		}
 	]
 }
