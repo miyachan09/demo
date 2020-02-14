@@ -8,7 +8,7 @@
 			"excerpt": "Lorem ipsum dolor sit amet",
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
 			"imagePath": "/images/banners/about-banner.png",
-			"subpages": [
+			"subpages": {
 				{
 					"id": 11,
 					"title": "Sample"
@@ -28,7 +28,7 @@
 					"id": 14,
 					"title": "Sample 4"
 				}
-			]
+			}
 		},
 		{
 			"id": 2,
@@ -38,7 +38,7 @@
 			"excerpt": "Lorem ipsum dolor sit amet",
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
 			"imagePath": "/images/banners/brain-cancer-research-banner.png".
-			"subpages": [
+			"subpages": {
 				{
 					"id": 11,
 					"title": "Sample"
@@ -58,7 +58,7 @@
 					"id": 14,
 					"title": "Sample 4"
 				}
-			]
+			}
 		},
 		{
 			"id": 3,
@@ -68,7 +68,7 @@
 			"excerpt": "Lorem ipsum dolor sit amet",
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
 			"imagePath": "/images/banners/get-support-banner.png",
-			"subpages": [
+			"subpages": {
 				{
 					"id": 11,
 					"title": "Sample"
@@ -88,7 +88,7 @@
 					"id": 14,
 					"title": "Sample 4"
 				}
-			]
+			}
 		},
 		{
 			"id": 4,
@@ -98,7 +98,7 @@
 			"excerpt": "Lorem ipsum dolor sit amet",
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
 			"imagePath": "/images/banners/get-involved-banner.png",
-			"subpages": [
+			"subpages": {
 				{
 					"id": 11,
 					"title": "Sample"
@@ -118,7 +118,7 @@
 					"id": 14,
 					"title": "Sample 4"
 				}
-			]
+			}
 		},
 		{
 			"id": 5,
@@ -128,7 +128,7 @@
 			"excerpt": "Lorem ipsum dolor sit amet",
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
 			"imagePath": "/images/banners/about-banner.png",
-			"subpages": [
+			"subpages": {
 				{
 					"id": 11,
 					"title": "Sample"
@@ -148,7 +148,7 @@
 					"id": 14,
 					"title": "Sample 4"
 				}
-			]
+			}
 		}
 	]
 }
