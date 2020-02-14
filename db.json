@@ -8,12 +8,6 @@
 			"excerpt": "Lorem ipsum dolor sit amet",
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
 			"imagePath": "/images/banners/about-banner.png",
-			"subpages": {
-				"page_id": 11,
-				"page_id": 12,
-				"page_id": 13,
-				"page_id": 14
-			}
 		},
 		{
 			"id": 2,
@@ -23,12 +17,6 @@
 			"excerpt": "Lorem ipsum dolor sit amet",
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
 			"imagePath": "/images/banners/brain-cancer-research-banner.png".
-			"subpages": {
-				"page_id": 11,
-				"page_id": 12,
-				"page_id": 13,
-				"page_id": 14
-			}
 		},
 		{
 			"id": 3,
@@ -38,12 +26,6 @@
 			"excerpt": "Lorem ipsum dolor sit amet",
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
 			"imagePath": "/images/banners/get-support-banner.png",
-			"subpages": {
-				"page_id": 11,
-				"page_id": 12,
-				"page_id": 13,
-				"page_id": 14
-			}
 		},
 		{
 			"id": 4,
@@ -53,13 +35,6 @@
 			"excerpt": "Lorem ipsum dolor sit amet",
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
 			"imagePath": "/images/banners/get-involved-banner.png",
-			"subpages": {
-				"page_id": 11,
-				"page_id": 12,
-				"page_id": 13,
-				"page_id": 14,
-				
-			}
 		},
 		{
 			"id": 5,
@@ -69,12 +44,6 @@
 			"excerpt": "Lorem ipsum dolor sit amet",
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
 			"imagePath": "/images/banners/about-banner.png",
-			"subpages": {
-				"page_id": 11,
-				"page_id": 12,
-				"page_id": 13,
-				"page_id": 14
-			}
 		}
 	]
 }
