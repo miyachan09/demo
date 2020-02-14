@@ -2,29 +2,33 @@
 	"Pages": [
 		{
 			"id": 1,
-			"title": "Home",
-			"subtitle": "",
+			"title": "About Brain Cancer",
+			"subtitle": "<mark>About</mark> Brain Cancer",
+			"theme": "purple",
 			"excerpt": "Lorem ipsum dolor sit amet",
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur."
 		},
 		{
 			"id": 2,
-			"title": "About Brain Cancer",
-			"subtitle": "<mark>About</mark> Brain Cancer",
+			"title": "Brain Cancer Research",
+			"subtitle": "Brain Cancer <mark>Research</mark>",
+			"theme": "blue",
 			"excerpt": "Lorem ipsum dolor sit amet",
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur."
 		},
 		{
 			"id": 3,
-			"title": "Brain Cancer Research",
-			"subtitle": "Brain Cancer <mark>Research</mark>",
+			"title": "Get Support",
+			"subtitle": "Get <mark>Support</mark>",
+			"theme": "green",
 			"excerpt": "Lorem ipsum dolor sit amet",
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur."
 		},
 		{
 			"id": 4,
-			"title": "Get Support",
-			"subtitle": "Get <mark>Support</mark>",
+			"title": "Get Involved",
+			"subtitle": "Get <mark>Involved</mark>",
+			"theme": "gold",
 			"excerpt": "Lorem ipsum dolor sit amet",
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur."
 		},
@@ -32,6 +36,7 @@
 			"id": 5,
 			"title": "About Us",
 			"subtitle": "<mark>About</mark> Us",
+			"theme": "purple",
 			"excerpt": "Lorem ipsum dolor sit amet",
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur."
 		}
