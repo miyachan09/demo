@@ -9,25 +9,11 @@
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
 			"imagePath": "/images/banners/about-banner.png",
 			"subpages": {
-				{
-					"id": 11,
-					"title": "Sample"
-				},
-
-				{
-					"id": 12,
-					"title": "Sample 2"
-				}
-
-				{
-					"id": 13,
-					"title": "Sample 3"
-				}
-
-				{
-					"id": 14,
-					"title": "Sample 4"
-				}
+				"page_id": 11,
+				"page_id": 12,
+				"page_id": 13,
+				"page_id": 14,
+				
 			}
 		},
 		{
@@ -39,25 +25,11 @@
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
 			"imagePath": "/images/banners/brain-cancer-research-banner.png".
 			"subpages": {
-				{
-					"id": 11,
-					"title": "Sample"
-				},
-
-				{
-					"id": 12,
-					"title": "Sample 2"
-				}
-
-				{
-					"id": 13,
-					"title": "Sample 3"
-				}
-
-				{
-					"id": 14,
-					"title": "Sample 4"
-				}
+				"page_id": 11,
+				"page_id": 12,
+				"page_id": 13,
+				"page_id": 14,
+				
 			}
 		},
 		{
@@ -69,25 +41,11 @@
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
 			"imagePath": "/images/banners/get-support-banner.png",
 			"subpages": {
-				{
-					"id": 11,
-					"title": "Sample"
-				},
-
-				{
-					"id": 12,
-					"title": "Sample 2"
-				}
-
-				{
-					"id": 13,
-					"title": "Sample 3"
-				}
-
-				{
-					"id": 14,
-					"title": "Sample 4"
-				}
+				"page_id": 11,
+				"page_id": 12,
+				"page_id": 13,
+				"page_id": 14,
+				
 			}
 		},
 		{
@@ -99,25 +57,11 @@
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
 			"imagePath": "/images/banners/get-involved-banner.png",
 			"subpages": {
-				{
-					"id": 11,
-					"title": "Sample"
-				},
-
-				{
-					"id": 12,
-					"title": "Sample 2"
-				}
-
-				{
-					"id": 13,
-					"title": "Sample 3"
-				}
-
-				{
-					"id": 14,
-					"title": "Sample 4"
-				}
+				"page_id": 11,
+				"page_id": 12,
+				"page_id": 13,
+				"page_id": 14,
+				
 			}
 		},
 		{
@@ -129,25 +73,11 @@
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
 			"imagePath": "/images/banners/about-banner.png",
 			"subpages": {
-				{
-					"id": 11,
-					"title": "Sample"
-				},
-
-				{
-					"id": 12,
-					"title": "Sample 2"
-				}
-
-				{
-					"id": 13,
-					"title": "Sample 3"
-				}
-
-				{
-					"id": 14,
-					"title": "Sample 4"
-				}
+				"page_id": 11,
+				"page_id": 12,
+				"page_id": 13,
+				"page_id": 14,
+				
 			}
 		}
 	]
