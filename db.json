@@ -3,7 +3,7 @@
 		{
 			"id": 1,
 			"title": "About Brain Cancer",
-			"slug": 'about-brain-cancer",
+			"slug": "about-brain-cancer",
 			"subtitle": "<mark>About</mark> Brain Cancer",
 			"theme": "purple",
 			"excerpt": "Lorem ipsum dolor sit amet",
@@ -13,7 +13,7 @@
 		{
 			"id": 2,
 			"title": "Brain Cancer Research",
-			"slug": 'brain-cancer-research",
+			"slug": "brain-cancer-research",
 			"subtitle": "Brain Cancer <mark>Research</mark>",
 			"theme": "blue",
 			"excerpt": "Lorem ipsum dolor sit amet",
@@ -23,7 +23,7 @@
 		{
 			"id": 3,
 			"title": "Get Support",
-			"slug": 'get-support",
+			"slug": "get-support",
 			"subtitle": "Get <mark>Support</mark>",
 			"theme": "green",
 			"excerpt": "Lorem ipsum dolor sit amet",
@@ -33,7 +33,7 @@
 		{
 			"id": 4,
 			"title": "Get Involved",
-			"slug": 'get-involved",
+			"slug": "get-involved",
 			"subtitle": "Get <mark>Involved</mark>",
 			"theme": "gold",
 			"excerpt": "Lorem ipsum dolor sit amet",
@@ -43,7 +43,7 @@
 		{
 			"id": 5,
 			"title": "About Us",
-			"slug": 'about-us",
+			"slug": "about-us",
 			"subtitle": "<mark>About</mark> Us",
 			"theme": "purple",
 			"excerpt": "Lorem ipsum dolor sit amet",
