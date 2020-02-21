@@ -6,7 +6,7 @@
 			"slug": "about-brain-cancer",
 			"subtitle": "<mark>About</mark> <br />Brain Cancer",
 			"theme": "purple",
-			"excerpt": "Lorem ipsum dolor sit amet",
+			"excerpt": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
 			"imagePath": "/images/banners/about-banner.png"
 		},
@@ -16,7 +16,7 @@
 			"slug": "brain-cancer-research",
 			"subtitle": "Brain Cancer <br /><mark>Research</mark>",
 			"theme": "blue",
-			"excerpt": "Lorem ipsum dolor sit amet",
+			"excerpt": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
 			"imagePath": "/images/banners/brain-cancer-research-banner.png"
 		},
@@ -26,7 +26,7 @@
 			"slug": "get-support",
 			"subtitle": "Get <br /><mark>Support</mark>",
 			"theme": "green",
-			"excerpt": "Lorem ipsum dolor sit amet",
+			"excerpt": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
 			"imagePath": "/images/banners/get-support-banner.png"
 		},
@@ -36,7 +36,7 @@
 			"slug": "get-involved",
 			"subtitle": "Get <br /><mark>Involved</mark>",
 			"theme": "gold",
-			"excerpt": "Lorem ipsum dolor sit amet",
+			"excerpt": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
 			"imagePath": "/images/banners/get-involved-banner.png"
 		},
@@ -46,7 +46,7 @@
 			"slug": "about-us",
 			"subtitle": "<mark>About</mark> Us",
 			"theme": "purple",
-			"excerpt": "Lorem ipsum dolor sit amet",
+			"excerpt": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
 			"content": "Brief blurb about this section. Keep to 3 lines long maximum on mobile. Lorem ipsum dolor sit amet, consectetur.",
 			"imagePath": "/images/banners/about-banner.png"
 		}
